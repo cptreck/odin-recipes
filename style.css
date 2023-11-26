@@ -1,0 +1,23 @@
+h1 {
+    color: aqua;
+}
+
+h3 {
+    color: aqua;
+}
+
+body {
+    background-color: #1f1f1f;
+}
+
+ul, ol {
+    color: aquamarine;
+}
+
+.center {
+    text-align: center;
+  }
+
+  p {
+    color: aquamarine;
+  }
