@@ -8,6 +8,9 @@ h3 {
 
 body {
     background-color: #1f1f1f;
+    border: aqua solid 5px;
+    padding: 8px 16px;
+    margin: 0 20%;
 }
 
 ul, ol {
@@ -20,4 +23,11 @@ ul, ol {
 
   p {
     color: aquamarine;
+  }
+
+  .recipe-box {
+    border-top: aqua solid 5px;
+    border-bottom: aqua solid 5px; 
+    padding: 8px 16px;
+    margin: 0 auto;
   }
